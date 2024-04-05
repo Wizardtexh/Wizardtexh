@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">𝐇𝑒𝑦 𝐕ᴀɪ 𝐍ᴀᴋsʜ 𝐕ᴀɪ</h1>
 <h3 align="center">𝐏ᴀᴘ𝐀 𝐂ᴏᴅᴇʀ</h3>
-<Img align="right" alt="coding" width="400" src="https://images.app.goo.gl/jzt9gtTLSxyS9vgv9"
+"<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+𝐓ʜᴇʀ𝐄!+🤍;+I'm+𝐍ᴀᴋs𝐇+𝐕ᴀ𝐈!;" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wizardtexh&label=Profile%20views&color=0e75b6&style=flat" alt="wizardtexh" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
