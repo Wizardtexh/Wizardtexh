@@ -1,8 +1,7 @@
-    # Generate a 200x400 pixel red image
-from PIL import Image
-img = Image.new('RGB', (200, 400), src="https://telegra.ph/file/de177683308f6386b50ba.mp4")          #𝐓ᴇᴄʜɴɪᴄᴀʟ 𝐏ᴀᴘᴀ 𝐌ᴜᴊʜᴇ 𝐁ʜ𝐈 𝐒ɪᴋʜ𝐀 𝐃ᴏ 𝐂ᴏᴅɪɴɢ#✞︎
+        #𝐓ᴇᴄʜɴɪᴄᴀʟ 𝐏ᴀᴘᴀ 𝐌ᴜᴊʜᴇ 𝐁ʜ𝐈 𝐒ɪᴋʜ𝐀 𝐃ᴏ 𝐂ᴏᴅɪɴɢ#✞︎
 -  𝐑ᴀᴊᴘᴜ𝐓𝐀ɴᴀ Bᴏ𝐈𝐈 ...    ✞︎
-- 𝐏ᴀɪᴅᴀɪsʜɪ 𝐑ᴀʜɪsʜ...        ✞︎
+- 𝐏ᴀɪᴅᴀɪsʜɪ 𝐑ᴀʜɪsʜ...
+- <img align="right" alt="coding" width="400" src="https://images.app.goo.gl/cNt4bGqNZuupy2nM6"     ✞︎
 - ✞︎     ✔︎         ☻︎    ❤︎
 -  𝐂ʜᴀᴀʀ Cʜᴀᴡɴɪ Gʜᴏᴅᴇ Pᴀɪ           @Wizardtexh
 - 𝐇ᴀᴛᴇʀs 𝐍ᴀᴋsʜ 𝐊𝐞 𝐋ᴀᴜᴅᴇ P  ...
