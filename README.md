@@ -7,7 +7,7 @@
   
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-  https://telegra.ph/file/8b9b389d2389201ee4d6b.jpg
+"<img src=https://telegra.ph/file/8b9b389d2389201ee4d6b.jpg"
 <!---
 Wizardtexh/Wizardtexh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
