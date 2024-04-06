@@ -1,4 +1,6 @@
-   "<>image width="400" src=https://telegra.ph/file/de177683308f6386b50ba.mp4"              #𝐓ᴇᴄʜɴɪᴄᴀʟ 𝐏ᴀᴘᴀ 𝐌ᴜᴊʜᴇ 𝐁ʜ𝐈 𝐒ɪᴋʜ𝐀 𝐃ᴏ 𝐂ᴏᴅɪɴɢ#✞︎
+    # Generate a 200x400 pixel red image
+from PIL import Image
+img = Image.new('RGB', (200, 400), src="https://telegra.ph/file/de177683308f6386b50ba.mp4")          #𝐓ᴇᴄʜɴɪᴄᴀʟ 𝐏ᴀᴘᴀ 𝐌ᴜᴊʜᴇ 𝐁ʜ𝐈 𝐒ɪᴋʜ𝐀 𝐃ᴏ 𝐂ᴏᴅɪɴɢ#✞︎
 -  𝐑ᴀᴊᴘᴜ𝐓𝐀ɴᴀ Bᴏ𝐈𝐈 ...    ✞︎
 - 𝐏ᴀɪᴅᴀɪsʜɪ 𝐑ᴀʜɪsʜ...        ✞︎
 - ✞︎     ✔︎         ☻︎    ❤︎
