@@ -3,7 +3,7 @@
         #𝐓ᴇᴄʜɴɪᴄᴀʟ 𝐏ᴀᴘᴀ 𝐌ᴜᴊʜᴇ 𝐁ʜ𝐈 𝐒ɪᴋʜ𝐀 𝐃ᴏ 𝐂ᴏᴅɪɴɢ#✞︎
 -  𝐑ᴀᴊᴘᴜ𝐓𝐀ɴᴀ Bᴏ𝐈𝐈 ...    ✞︎
 - 𝐏ᴀɪᴅᴀɪsʜɪ 𝐑ᴀʜɪsʜ...
-- <img align="right" alt="coding" width="400" src="https://images.app.goo.gl/cNt4bGqNZuupy2nM6"     ✞︎
+- <img align="right" alt="coding" width="400" src="https://images.app.goo.gl/cNt4bGqNZuupy2nM6">   ✞︎
 - ✞︎     ✔︎         ☻︎    ❤︎
 -  𝐂ʜᴀᴀʀ Cʜᴀᴡɴɪ Gʜᴏᴅᴇ Pᴀɪ           @Wizardtexh
 - 𝐇ᴀᴛᴇʀs 𝐍ᴀᴋsʜ 𝐊𝐞 𝐋ᴀᴜᴅᴇ P  ...
